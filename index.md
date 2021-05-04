@@ -8,10 +8,10 @@ SAR Signal Processing Chip
 
 ### Publications
 #### Articles:
-[1] Guoqing Wang, He Chen, Yizhuang Xie. An Efficient Dual-Channel Data Storage and Access Method for Spaceborne Synthetic Aperture Radar Real-Time Processing[J]. Electronics, 2021, 10(6):662. (SCI, IF=2.412)
+- [1] Guoqing Wang, He Chen, Yizhuang Xie. An Efficient Dual-Channel Data Storage and Access Method for Spaceborne Synthetic Aperture Radar Real-Time Processing[J]. Electronics, 2021, 10(6):662. (SCI, IF=2.412)
 
 #### Patents:
-[1] Guoqing Wang, Yizhuang Xie, He Chen, Liang Chen; A Dual-Channel DDR3 Based SAR Data Storage and Access Method and Device. Application number：CN202110129411.0
-[2] Yizhuang Xie, Guoqing Wang, Tingting Qiao; A Multi-Channel Parallel Computing System for Synthetic Aperture Radar Real-Time Imaging. Application number：CN202110396890.2
+- [1] Guoqing Wang, Yizhuang Xie, He Chen, Liang Chen; A Dual-Channel DDR3 Based SAR Data Storage and Access Method and Device. Application number：CN202110129411.0
+- [2] Yizhuang Xie, Guoqing Wang, Tingting Qiao; A Multi-Channel Parallel Computing System for Synthetic Aperture Radar Real-Time Imaging. Application number：CN202110396890.2
 
 
